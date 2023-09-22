@@ -1,8 +1,12 @@
 import React from "react";
 
 const HeaderCartButton = (props) => {
-    return(
-
-    )
+  return (
+    <button>
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  );
 };
 export default HeaderCartButton;
