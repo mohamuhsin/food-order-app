@@ -10,7 +10,7 @@ you can check it out at mohamuhsin.com
 
 # FOOD ORDER APP MADE WITH REACT JS
 
-This is a 
+
 
 
 
